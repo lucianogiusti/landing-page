@@ -62,6 +62,10 @@ li {
   	list-style-type: none;
 }
 
+.hide-input {
+	display: none;
+}
+
 /* Section Background */
 .home,
 .about,
